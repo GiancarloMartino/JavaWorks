@@ -1,5 +1,6 @@
 # JavaWorks
 
-JavaProgrammingCourse contains a complete course on Java Programming.
+JavaProgramming contains a complete suite of Java programs.
 
-First Steps directory contains some good program to learn and understand Java programming fundamentals concepts
+`FirstSteps` directory contains programs on fundamental concepts: 
+Data types, Variables, Constant, ControlStatements and Arrays
