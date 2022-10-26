@@ -21,7 +21,7 @@ public class ComputaArea {
 	//1) Leggere input (o esterno o assegnato)
 			//1.1) memorizzare input -----
 
-	raggio = 20.0;
+	raggio = 20.0; //assegno un valore ad una variabile per mezzo dell'operatore di assegnamento '='
 
 	//2) calcolare l'area
 	area = raggio * raggio * 3.1415;
