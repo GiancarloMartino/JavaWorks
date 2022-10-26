@@ -4,9 +4,9 @@ public class ComputaAreaConCostantePI{
 
 	public static void main(String[] args){
 
-		//creo una costante con la keyword "final"
+		//creare una costante con la keyword "final"
 		final double PI = 3.1415;
-		//creo un oggetto di tipo Scanner dal nome input, per poter richiamare la funzione di lettura.
+		//creare un oggetto di tipo Scanner dal nome input, per poter richiamare la funzione di lettura.
 		Scanner input = new Scanner(System.in);
 
 			//abilitare la possibilità di ricevere input esterni
