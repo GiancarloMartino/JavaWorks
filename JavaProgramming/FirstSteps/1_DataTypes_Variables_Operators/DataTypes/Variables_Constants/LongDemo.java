@@ -1,5 +1,5 @@
 // Compute distance light travels using long variables.
-class Light {
+class LongDemo {
     public static void main(String[] args) {
         int lightspeed;
         long days;

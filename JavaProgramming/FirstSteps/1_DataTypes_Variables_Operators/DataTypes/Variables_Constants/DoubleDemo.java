@@ -1,5 +1,5 @@
 // Compute the area of a circle.
-class Area {
+class DoubleDemo {
 public static void main(String[] args) {
     double pi, r, a;
 
