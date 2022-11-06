@@ -9,8 +9,8 @@ public class ComputaArea {
 	//dati
 
 		//dichiarazione: tipo dato + variabile
-		                //variabile: riservami della memoria con questo nome
-		                // tipo dato: riservami un certo quantitativo di memoria
+		//variabile: riservami della memoria con questo nome
+		// tipo dato: riservami un certo quantitativo di memoria
 
 	double raggio; //dichiaro raggio 
 	double area;   //dichiaro area
@@ -26,6 +26,7 @@ public class ComputaArea {
 	//2) calcolare l'area
 	area = raggio * raggio * 3.1415;
 
+	//OUTPUT
 	//3) mandare in stampa il risultato
 	System.out.println("L'area del cerchio di raggio " + raggio + " è " + area);
 
