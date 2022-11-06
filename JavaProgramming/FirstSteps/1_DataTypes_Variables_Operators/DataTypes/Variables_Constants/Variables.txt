@@ -1,6 +1,5 @@
-public class Variables {
-    public static void main(String[] args) {
-        /**A variable is a program component used to store or represent data. Can be thought of as containers of a sort.
+
+        A variable is a program component used to store or represent data. Can be thought of as containers of a sort.
         data item stored in a variable is called its VALUE.
 
         SYNTAX
@@ -21,7 +20,3 @@ public class Variables {
 
          in java there are some reserved words with a special predifined funtion and cannot be used as the names of variables,
          classes, or methods.
-
-         */
-    }
-}

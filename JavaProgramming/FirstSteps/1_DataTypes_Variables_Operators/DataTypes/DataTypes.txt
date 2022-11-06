@@ -1,7 +1,4 @@
-public class DataTypes {
-    public static void main(String[] args) {
-        /**
-         A data type is the most basic and the most common classification of data.
+ A data type is the most basic and the most common classification of data.
          It is this through which the compiler gets to know the form or the type of information that will be used throughout the code.
          So basically data type is a type of information transmitted between the programmer and the compiler where
          the programmer informs the compiler about what type of data is to be stored
@@ -43,7 +40,3 @@ public class DataTypes {
          double(floating-point) -> 8 bytes
          char (single Unicode character) -> 2 bytes
          boolean (true or false) -> 1 or more bytes
-
-         */
-    }
-}
